@@ -120,8 +120,10 @@ terraform destroy
 ## Using Bicep to Implement
 ### Step0: prerequisites
 Install Azure CLI: Ensure the Azure CLI is installed and you are logged in using az login.
+
 Install Bicep: Bicep is integrated with Azure CLI (version 2.20.0 or later) or can be installed separately. To install Bicep CLI: az bicep install
 Azure Subscription: Ensure you have an active Azure subscription.
+
 Text Editor: Use VS Code to create Bicep files.
 
 ### Step1: Create main.bicep
